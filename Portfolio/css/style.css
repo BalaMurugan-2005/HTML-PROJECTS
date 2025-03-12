@@ -1,0 +1,36 @@
+#portfolioheader{
+    color: aqua;
+}
+.portfoliopara{
+    color: red;
+}
+*{
+    color: blue;
+}
+h1{
+    font-size: 24px;
+    color: #004080;
+    text-align: center;
+}
+.employee-name{
+    font-weight: bold;
+    color:purple;
+}
+#ceo{
+    font-size: 20px;
+    color: #ff6600;
+    background-color: aqua;
+    width: 180px;
+    padding: 10px;
+    border-radius: 60px;
+    margin-top: 200px;
+    
+}
+button{
+    background-color: #008CBA;
+    -webkit-text-fill-color: white;
+}
+#button1{
+    background-color: blue;
+    text-emphasis-color: red;
+}
